@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GradeEvaluation</string>
+    <string name="avg_grade">Ortalama notunuz</string>
+    <string name="calculate_button">HESAPLA</string>
+    <string name="refresh_button">YENİLE</string>
+    <string name="final_">Final</string>
+    <string name="first_midterm">Birinci Vize</string>
+    <string name="grade">Not</string>
+    <string name="second_midterm">İkinci Vize</string>
+</resources>

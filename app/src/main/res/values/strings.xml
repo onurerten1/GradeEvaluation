@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GradeEvaluation</string>
+    <string name="first_midterm">First Midterm</string>
+    <string name="second_midterm">Second Midterm</string>
+    <string name="final_">Final</string>
+    <string name="grade">Grade</string>
+    <string name="percentage" translatable="false">%</string>
+    <string name="avg_grade">Your average grade</string>
+    <string name="blank_space" translatable="false"> </string>
+    <string name="calculate_button">CALCULATE</string>
+    <string name="refresh_button">REFRESH</string>
+</resources>
